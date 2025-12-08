@@ -1,0 +1,16 @@
+name: Feature Request
+description: Have an idea?
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What do you want?
+      placeholder: |
+        I want...
+
+        It would work like:
+        /command --option
+    validations:
+      required: true

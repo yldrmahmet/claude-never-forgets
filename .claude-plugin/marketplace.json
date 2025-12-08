@@ -1,0 +1,14 @@
+{
+  "name": "claude-never-forgets",
+  "owner": {
+    "name": "yldrmahmet"
+  },
+  "plugins": [
+    {
+      "name": "claude-never-forgets",
+      "source": "./",
+      "description": "Persistent memory for Claude Code",
+      "version": "1.0.0"
+    }
+  ]
+}
